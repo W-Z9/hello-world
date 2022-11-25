@@ -8,3 +8,4 @@ char* StrCpy(char* src) {
 	str[i] = '\0';
 	return str;
 }
+//Romote edit B21150201王文珍
